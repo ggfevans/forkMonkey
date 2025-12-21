@@ -824,12 +824,13 @@ body {
     overflow: hidden;
     position: relative;
     border: 1px solid var(--border-subtle);
+    padding: 4px;
+    /* Ensure image fits inside with padding */
 }
 
 .evolution-card-preview svg {
     width: 100%;
     height: 100%;
-    object-fit: contain;
     display: block;
 }
 
@@ -882,12 +883,13 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 10px;
+    /* Ensure image fits inside */
 }
 
 .evolution-detail-modal svg {
     width: 100%;
     height: 100%;
-    object-fit: contain;
     display: block;
 }
 
