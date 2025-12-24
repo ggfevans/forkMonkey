@@ -577,6 +577,23 @@
       },
       "story": "Your monkey rested today. No visible changes.",
       "svg_filename": "2025-12-24_00-16_monkey.svg"
+    },
+    {
+      "timestamp": "2025-12-24T21:34:07.604750",
+      "dna_hash": "9371b7b9108c3c75",
+      "generation": 1,
+      "mutation_count": 0,
+      "rarity_score": 25.0,
+      "traits": {
+        "body_color": "golden",
+        "face_expression": "curious",
+        "accessory": "bandana",
+        "pattern": "spots",
+        "background": "space",
+        "special": "particles"
+      },
+      "story": "\ud83c\udf89 Your monkey was born!",
+      "svg_filename": "2025-12-24_21-34_monkey.svg"
     }
   ]
 }
