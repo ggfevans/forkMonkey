@@ -1,28 +1,27 @@
 {
-  "last_updated": "2025-12-30T00:15:30.429842+00:00",
+  "last_updated": "2025-12-31T00:15:41.670112+00:00",
   "total_monkeys": 34,
   "active_today": 14,
   "generations": {
-    "1": 15,
-    "2": 19
+    "1": 14,
+    "2": 20
   },
-  "avg_rarity": 23.09,
+  "avg_rarity": 21.91,
   "max_rarity": 53.33,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "background",
-    "value": "aurora",
+    "trait": "face_expression",
+    "value": "laughing",
     "count": 1
   },
   "most_common_trait": {
     "trait": "special",
     "value": "none",
-    "count": 22
+    "count": 24
   },
   "trait_distribution": {
     "body_color": {
-      "purple": 2,
-      "tan": 8,
+      "tan": 10,
       "prismatic": 2,
       "bronze": 3,
       "genesis_gold": 1,
@@ -31,31 +30,32 @@
       "beige": 3,
       "silver": 3,
       "gray": 1,
+      "purple": 1,
       "golden": 2,
-      "brown": 2,
+      "brown": 1,
       "blue": 2,
       "holographic": 3
     },
     "face_expression": {
-      "curious": 5,
-      "mischievous": 4,
-      "legendary": 2,
+      "sleepy": 7,
+      "mischievous": 3,
+      "curious": 4,
+      "legendary": 1,
       "excited": 2,
       "cosmic": 1,
       "neutral": 4,
-      "sleepy": 5,
       "happy": 4,
       "cool": 1,
       "enlightened": 1,
+      "wise": 2,
       "surprised": 2,
-      "wise": 1,
       "winking": 1,
       "laughing": 1
     },
     "accessory": {
-      "bandana": 5,
+      "bandana": 6,
       "crown": 1,
-      "simple_hat": 7,
+      "simple_hat": 6,
       "jetpack": 1,
       "sunglasses": 2,
       "wings": 1,
@@ -66,36 +66,35 @@
       "monocle": 1
     },
     "pattern": {
-      "swirls": 4,
+      "fractals": 2,
+      "spots": 7,
       "stars": 5,
       "lightning": 1,
-      "diamonds": 5,
-      "gradient": 5,
+      "diamonds": 3,
+      "gradient": 4,
       "stripes": 3,
-      "spots": 5,
-      "solid": 5,
-      "fractals": 1
+      "swirls": 4,
+      "solid": 5
     },
     "background": {
-      "space": 3,
-      "white": 5,
-      "sunset": 8,
+      "blue_sky": 4,
+      "sunset": 10,
+      "white": 4,
+      "space": 2,
       "beach": 3,
       "forest": 1,
       "green_grass": 2,
-      "blue_sky": 3,
       "mountains": 1,
       "city": 4,
       "volcano": 2,
-      "underwater": 1,
-      "aurora": 1
+      "underwater": 1
     },
     "special": {
-      "energy": 3,
-      "none": 22,
+      "none": 24,
       "transcendent": 1,
+      "energy": 2,
       "glow": 1,
-      "sparkles": 2,
+      "sparkles": 1,
       "shadow": 4,
       "aura": 1
     }
