@@ -1,8 +1,8 @@
 {
-  "dna_hash": "1fc3679bbb7d211c",
+  "dna_hash": "fd82cf9c0f51cef2",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 1,
+  "mutation_count": 2,
   "rarity_score": 16.666666666666664,
   "parent_id": null,
   "traits": {
@@ -15,7 +15,7 @@
       "rarity": "common"
     },
     "accessory": {
-      "value": "bandana",
+      "value": "bow",
       "rarity": "common"
     },
     "pattern": {
@@ -32,9 +32,9 @@
     }
   },
   "streak": {
-    "current": 11,
-    "best": 11,
-    "last_date": "2025-12-31"
+    "current": 12,
+    "best": 12,
+    "last_date": "2026-01-01"
   },
-  "last_updated": "2025-12-31T00:17:30.083757"
+  "last_updated": "2026-01-01T00:19:09.803319"
 }
