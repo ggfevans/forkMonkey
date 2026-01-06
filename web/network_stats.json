@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-01-05T00:16:50.275143+00:00",
+  "last_updated": "2026-01-06T00:15:42.311968+00:00",
   "total_monkeys": 34,
   "active_today": 14,
   "generations": {
     "1": 15,
     "2": 19
   },
-  "avg_rarity": 23.24,
+  "avg_rarity": 23.43,
   "max_rarity": 61.67,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "background",
-    "value": "underwater",
+    "trait": "pattern",
+    "value": "nebula",
     "count": 1
   },
   "most_common_trait": {
@@ -23,14 +23,14 @@
     "body_color": {
       "tan": 9,
       "crystal": 1,
-      "bronze": 3,
+      "bronze": 4,
       "prismatic": 1,
       "genesis_gold": 1,
       "copper": 1,
       "green": 1,
       "beige": 3,
       "silver": 3,
-      "gray": 2,
+      "gray": 1,
       "purple": 1,
       "brown": 1,
       "blue": 2,
@@ -68,35 +68,36 @@
     "pattern": {
       "fractals": 2,
       "spots": 5,
-      "stars": 6,
+      "stars": 5,
       "aurora": 1,
       "diamonds": 3,
       "gradient": 5,
       "stripes": 3,
       "swirls": 3,
       "solid": 4,
-      "hearts": 2
+      "hearts": 2,
+      "nebula": 1
     },
     "background": {
       "blue_sky": 4,
       "sunset": 9,
       "white": 5,
-      "space": 3,
+      "underwater": 2,
       "beach": 3,
       "forest": 1,
       "green_grass": 2,
       "mountains": 1,
       "city": 3,
       "volcano": 2,
-      "underwater": 1
+      "space": 2
     },
     "special": {
       "none": 22,
       "transcendent": 1,
       "energy": 3,
       "glow": 1,
-      "sparkles": 1,
-      "shadow": 5,
+      "sparkles": 2,
+      "shadow": 4,
       "aura": 1
     }
   }
