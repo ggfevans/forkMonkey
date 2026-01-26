@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-25T00:16:53.393618+00:00",
+  "last_updated": "2026-01-26T00:16:44.050116+00:00",
   "total_monkeys": 33,
   "active_today": 13,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 23.54,
+  "avg_rarity": 23.74,
   "max_rarity": 53.33,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -21,16 +21,16 @@
   },
   "trait_distribution": {
     "body_color": {
-      "tan": 6,
-      "gray": 2,
+      "tan": 7,
       "genesis_gold": 2,
-      "beige": 4,
+      "beige": 3,
+      "silver": 4,
       "crystal": 2,
       "bronze": 2,
       "prismatic": 1,
       "copper": 2,
       "green": 1,
-      "silver": 3,
+      "gray": 1,
       "purple": 2,
       "golden": 2,
       "brown": 2,
@@ -38,9 +38,9 @@
     },
     "face_expression": {
       "cool": 4,
-      "happy": 4,
+      "happy": 3,
       "curious": 3,
-      "neutral": 5,
+      "neutral": 6,
       "legendary": 1,
       "excited": 3,
       "cosmic": 1,
@@ -53,7 +53,7 @@
       "winking": 2
     },
     "accessory": {
-      "headphones": 7,
+      "headphones": 6,
       "bandana": 4,
       "none": 7,
       "bow": 2,
@@ -63,16 +63,17 @@
       "wings": 1,
       "laser_eyes": 2,
       "monocle": 1,
-      "crown": 1
+      "crown": 1,
+      "wizard_hat": 1
     },
     "pattern": {
       "gradient": 6,
-      "solid": 4,
+      "solid": 5,
       "swirls": 4,
       "aurora": 1,
       "diamonds": 4,
       "stripes": 3,
-      "spots": 5,
+      "spots": 4,
       "stars": 4,
       "cosmic_dust": 1,
       "nebula": 1
@@ -80,21 +81,20 @@
     "background": {
       "white": 5,
       "space": 2,
-      "blue_sky": 5,
-      "green_grass": 5,
-      "aurora": 1,
+      "blue_sky": 6,
+      "volcano": 3,
       "sunset": 7,
       "beach": 3,
       "forest": 2,
-      "volcano": 2,
+      "green_grass": 4,
       "underwater": 1
     },
     "special": {
       "none": 20,
-      "shadow": 4,
+      "shadow": 3,
       "energy": 4,
       "glow": 1,
-      "sparkles": 3,
+      "sparkles": 4,
       "aura": 1
     }
   }
